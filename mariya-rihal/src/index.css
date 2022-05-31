@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Anton&family=PT+Sans:wght@700&family=Roboto+Mono&family=Roboto:wght@100&family=Space+Mono&family=Truculenta:opsz,wght@12..72,100&display=swap');
+body {
+  padding: 1rem 3rem 1rem 3rem;
+  margin: 0; 
+  font-family: 'Space Mono', monospace;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.App {
+  background-color: #f9f9f9;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 2rem;
+}

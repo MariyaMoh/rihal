@@ -1,0 +1,36 @@
+.SearcheContainer {
+  background-color: #8e9;
+  width: 50%;
+  padding: 30px;
+  border-radius: 2rem;
+  padding: auto;
+  margin: auto;
+
+}
+
+.SearcheContainer:hover {
+  box-shadow: 0 8px 16px 0 #fdf092, 0 6px 20px 0 #fdf092;
+}
+
+
+
+
+
+.b1 {
+  border: none;
+ margin: 10px;
+  border-bottom: 2px solid gray;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.item{
+    display: flex;
+}
+
+
+.buttons{
+     padding: 10px 30px;
+     margin: 10px;
+}
